@@ -59,7 +59,7 @@ class Child_Theme_Settings extends Genesis_Admin_Boxes {
 		// Set the default values
 		$default_settings = array(
 			'footer-left'   => 'Copyright &copy; ' . date( 'Y' ) . ' All Rights Reserved',
-			'footer-right' => 'Site by <a href="http://www.billerickson.net">Bill Erickson</a>',
+			'footer-right' => '',
 		);
 		
 		// Create the Admin Page
